@@ -19,7 +19,7 @@ Ensure you have Python 3.x installed on your machine. You can download Python fr
 
 ### Step 1: Clone the repository
 ```bash
-git clone [https://github.com/KlaiRayen/YOLOv8 Product Detection System.git](https://github.com/KlaiRayen/YOLOv8-Product-Detection-System.git)
+git clone https://github.com/KlaiRayen/YOLOv8-Product-Detection-System.git
 cd YOLOv8-Product-Detection-System
 ```
 
