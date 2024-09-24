@@ -5,6 +5,8 @@ This project implements a real-time product detection system using the YOLOv8 (Y
 ![shopmasterProject](https://github.com/user-attachments/assets/43efd0ad-bcc5-4212-95f7-7d8e807f72c1)
 ![image](https://github.com/user-attachments/assets/bead4edd-c127-4b43-84a2-bc9d81608dba)
 
+### Full Demo Video: https://www.youtube.com/watch?v=dycPxiaTCL8
+
 ## Technologies Used
 - Python
 - OpenCV
@@ -40,9 +42,6 @@ Make sure your webcam is connected and accessible.
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or additional features, feel free to open an issue or submit a pull request.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 - [YOLOv8](https://github.com/ultralytics/yolov5) by Ultralytics
